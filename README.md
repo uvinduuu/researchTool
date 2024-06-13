@@ -22,6 +22,21 @@ The News Article Research Tool is a web application designed to facilitate resea
 - **FAISS**: Library for efficient similarity search.
 - **dotenv**: Library for loading environment variables from .env file.
 
+  ## Why Use This News Article Research Tool?
+
+- **Efficiency**: Copy-pasting articles into ChatGPT for analysis can be tedious and time-consuming. This tool automates the process, allowing for quick and efficient analysis of multiple articles simultaneously.
+
+- **Aggregate Knowledge Base**: By inputting multiple news article URLs, users can build an aggregate knowledge base on a particular topic. This allows for a comprehensive understanding of various perspectives and insights from different sources.
+
+- **No Word Limit**: Unlike some chat-based AI models like ChatGPT, this tool does not have a word limit. Users can ask detailed questions and receive comprehensive answers without being constrained by character limits or word counts.
+
+- **Cost-Effective**: With the availability of powerful AI models like ChatGPT 4 being limited or requiring a subscription, this tool provides a cost-effective alternative for conducting research and analysis on news articles.
+
+- **User-Friendly Interface**: The Streamlit-based user interface makes it easy for users to interact with the tool, providing a seamless experience for inputting URLs, asking questions, and viewing answers and sources.
+
+By leveraging the capabilities of Generative AI and Natural Language Processing, this News Article Research Tool offers a more efficient, cost-effective, and user-friendly solution for analyzing news articles and gathering insights.
+
+
 ## Getting Started
 
 ### Prerequisites
