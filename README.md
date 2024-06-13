@@ -74,3 +74,5 @@ streamlit run main.py
 #### Acknowledgements
 *Thanks to OpenAI for providing the GPT-3.5 Turbo model.*
 *Thanks to the creators of LangChain for the useful library.*
+
+![Demo](Demo_ResearchTool.mp4)
